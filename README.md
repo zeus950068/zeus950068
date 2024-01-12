@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on SOC desgin this semester in National Tsing Hua University. and I will keep writing a study journel throughout this course to record what I learn and achieve.
+##🔭 I’m currently working on SOC desgin this semester in National Tsing Hua University. and I will keep writing a study journel throughout this course to record what I learn and achieve.
 - 
 <!--
 **zeus950068/zeus950068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
