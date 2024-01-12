@@ -1,7 +1,7 @@
 ### Hi there 👋
 ##### I am now a graduate student in INSTITUTE OF ELECTRONICS ENGINEERING Department in National Tsing Hua University (NTHU).
 ##### 🔭 I’m currently working on SOC desgin this semester in National Tsing Hua University, and I will keep writing a study journel throughout this course to record what I learn and achieve.
-# Following is just gir testing GIF, my name is Brian.
+# Following is just for testing GIF, my name is Brian.
 ---
 ![image](https://github.com/zeus950068/zeus950068/blob/main/introduction.gif)
 
