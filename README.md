@@ -1,4 +1,5 @@
 ### Hi there 👋
+##### I am now a new graduate in College of INSTITUTE OF ELECTRONICS ENGINEERING in National Tsing Hua University (NTHU).
 ##### 🔭 I’m currently working on SOC desgin this semester in National Tsing Hua University. and I will keep writing a study journel throughout this course to record what I learn and achieve.
 - 
 <!--
